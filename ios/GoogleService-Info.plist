@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CLIENT_ID</key>
+  <string>359254612575-4che0isisosmk44qtrgdbnbs7maginjo.apps.googleusercontent.com</string>
+  <key>REVERSED_CLIENT_ID</key>
+  <string>com.googleusercontent.apps.359254612575-4che0isisosmk44qtrgdbnbs7maginjo</string>
+  <key>ANDROID_CLIENT_ID</key>
+  <string>359254612575-k0diev549ro9ulh57pr97lqa1fqo154c.apps.googleusercontent.com</string>
+  <key>API_KEY</key>
+  <string>AIzaSyDsckUp7ABjcvaz0N5oQwP-nP2iOFiAscw</string>
+  <key>GCM_SENDER_ID</key>
+  <string>359254612575</string>
+  <key>PLIST_VERSION</key>
+  <string>1</string>
+  <key>BUNDLE_ID</key>
+  <string>com.scriptsbundle.DWT</string>
+  <key>PROJECT_ID</key>
+  <string>downtown-98ace</string>
+  <key>STORAGE_BUCKET</key>
+  <string>downtown-98ace.appspot.com</string>
+  <key>IS_ADS_ENABLED</key>
+  <false></false>
+  <key>IS_ANALYTICS_ENABLED</key>
+  <false></false>
+  <key>IS_APPINVITE_ENABLED</key>
+  <true></true>
+  <key>IS_GCM_ENABLED</key>
+  <true></true>
+  <key>IS_SIGNIN_ENABLED</key>
+  <true></true>
+  <key>GOOGLE_APP_ID</key>
+  <string>1:359254612575:ios:c0f2730c055232f14ed9ea</string>
+  <key>DATABASE_URL</key>
+  <string>https://downtown-98ace.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Findex</string>
+    <string name="facebook_app_id">482284582673655</string>
+    <string name="fb_login_protocol_scheme">fb482284582673655</string>
+
+    <!--<string name="facebook_app_id">326690391441547</string>-->
+    <!--<string name="fb_login_protocol_scheme">fb326690391441547</string>-->
+</resources>
